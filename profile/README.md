@@ -25,7 +25,7 @@ Current public repositories include:
 
 - [`cortex-sdk`](https://github.com/Cortex-Suite-Team/cortex-sdk) — SDK packages for working with Cortex Suite from external applications.
 - [`cortex-sdk-ui`](https://github.com/Cortex-Suite-Team/cortex-sdk-ui) — UI components for Cortex Suite integrations.
-- [`cortex-chat-widget`](https://github.com/Cortex-Suite-Team/cortex-chat-widget) — embeddable chat widget for connecting users to Cortex workers.
+- [`cortex-chat-widget`](https://github.com/Cortex-Suite-Team/cortex-chat-widget) — embeddable chat widget for connecting users to Cortex Suite workers.
 
 Core platform repositories are private.
 
